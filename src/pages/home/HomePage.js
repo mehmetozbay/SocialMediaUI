@@ -1,6 +1,5 @@
 import React from "react";
 import Feed from "../../components/feed/Feed";
-import Post from "../../components/posts/Post";
 import Sidebar from "../../components/sidebar/Sidebar";
 import Topbar from "../../components/topbar/Topbar";
 import Rightbar from "./../../components/rightbar/Rightbar";
